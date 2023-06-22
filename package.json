@@ -1,0 +1,17 @@
+{
+  "name": "csyj4j",
+  "main": "csy.js",
+  "author": "bucksh0t#8720",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node csy.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.8.0",
+    "csy.db": "^1.5.6"
+  },
+  "license": "APACHE"
+}
